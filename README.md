@@ -1,6 +1,6 @@
-# untitled2
+# To Do App
 
-Let's see if this works..
+A classic to do app to test the waters of flutter..
 
 ## Getting Started
 
